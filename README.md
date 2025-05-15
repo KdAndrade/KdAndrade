@@ -65,8 +65,8 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauanandrade)  
-[![Gmail](https://img.shields.io/badge/Gmail-kauanandrade@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kauanandrade@gmail.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Kauan%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauanandrade](https://www.linkedin.com/in/kauan-de-andrade-oliveira-a20738275/))  
+[![Gmail]([https://img.shields.io/badge/Gmail-kauanandrade@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kauand.andrade17@gmail.com](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox))
 
 </div>
 
