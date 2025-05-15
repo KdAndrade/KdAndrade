@@ -56,7 +56,7 @@ Constantly learning, exploring new technologies, and working on projects to impr
 ---
 
 ### 🎧 What I'm Listening To
-<div align="center"> <a href="https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu?si=602d5f9627cf4092" target="_blank"> <img src="https://media.tenor.com/5JmJIPwFKdUAAAAC/music-mixer.gif" width="320px" alt="DJ Music Mixer" /> </a>
+<div align="center"> <a href="https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu?si=602d5f9627cf4092" target="_blank"> <img src="https://media.giphy.com/media/3o7aD4xl69dCyEOsVu/giphy.gif" width="320px" alt="DJ Music Mixer" /> </a>
 <br/><br/>
 
 🎵 Favorite track:
