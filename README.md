@@ -8,7 +8,8 @@ I’m a passionate Computer Science student at UNA University, focused on buildi
 Constantly learning, exploring new technologies, and working on projects to improve my skills and contribute to the community.
 
 - 🔐 Interested in Cybersecurity & Secure Coding  
-- 💻 Skilled in Java, JavaScript, Python, SQL & Linux  
+- 💻 Skilled in **Java**  
+- 🚧 Currently learning and developing skills in JavaScript, Python, SQL & Linux  
 - 🚀 Always curious about Cloud, DevOps & Automation  
 - 🌱 Currently leveling up my skills in backend development and containerization with Docker  
 - 🎯 Goal: Become a cybersecurity expert and software engineer
@@ -20,12 +21,12 @@ Constantly learning, exploring new technologies, and working on projects to impr
 <div align="center">
 
 <img alt="Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img alt="JavaScript" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img alt="SQL" title="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img alt="Linux" title="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img alt="Docker" title="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img alt="Git" title="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img alt="JavaScript" title="JavaScript (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="Python" title="Python (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img alt="SQL" title="SQL (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img alt="Linux" title="Linux (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img alt="Docker" title="Docker (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img alt="Git" title="Git (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 </div>
 
@@ -35,9 +36,9 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 <div align="center">
 
-![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanandrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanandrade&layout=compact&theme=radical)
 
 </div>
 
@@ -45,10 +46,13 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 ### 💡 Projects & Learning Focus
 
-- Building practical projects to apply cybersecurity principles  
-- Enhancing knowledge in secure software design  
-- Learning cloud technologies and infrastructure automation  
-- Diving into Linux internals and scripting
+- [x] Java — sólido conhecimento e projetos feitos  
+- [ ] JavaScript — em desenvolvimento  
+- [ ] Python — em desenvolvimento  
+- [ ] SQL — em desenvolvimento  
+- [ ] Linux — em desenvolvimento  
+- [ ] Docker — em desenvolvimento  
+- [ ] Git — em desenvolvimento  
 
 ---
 
