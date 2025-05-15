@@ -56,8 +56,16 @@ Constantly learning, exploring new technologies, and working on projects to impr
 ---
 
 ### 🎧 What I'm Listening To
-<div align="center"> <a href="https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu?si=602d5f9627cf4092" target="_blank"> <img src="https://media.giphy.com/media/3o7aD4xl69dCyEOsVu/giphy.gif" width="320px" alt="DJ Music Mixer" /> </a>
-<br/><br/>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu?si=602d5f9627cf4092" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Music Equalizer" width="400" />
+  </a>
+
+  <p>Favorite track:  
+  <a href="https://open.spotify.com/intl-pt/track/0d7oIw2t0f6oCXJUfWYw8E?si=18805c4f11dc43ea" target="_blank" rel="noopener noreferrer">My Letter — Flaw</a></p>
+</div>
+
 
 🎵 Favorite track:
 <a href="https://open.spotify.com/intl-pt/track/0d7oIw2t0f6oCXJUfWYw8E?si=18805c4f11dc43ea" target="_blank">
