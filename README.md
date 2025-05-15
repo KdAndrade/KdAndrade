@@ -36,13 +36,13 @@ Meu objetivo é evoluir constantemente, construir projetos reais, contribuir com
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=10&custom_title=Linguagens+Mais+Usadas" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&theme=tokyonight&layout=compact&langs_count=10&custom_title=Java" 
   />
 </p>
 
