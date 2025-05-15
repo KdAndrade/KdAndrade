@@ -9,10 +9,9 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 - 🔐 Interested in Cybersecurity & Secure Coding  
 - 💻 Skilled in **Java**  
-- 🚧 Currently learning and developing skills in JavaScript, Python, SQL & Linux  
-- 🚀 Always curious about Cloud, DevOps & Automation  
-- 🌱 Currently leveling up my skills in backend development and containerization with Docker  
-- 🎯 Goal: Become a cybersecurity expert and software engineer
+- 🚧 Currently learning JavaScript, Python, SQL, Linux, Git & Docker  
+- 🌐 Curious about Cloud, DevOps & Automation  
+- 🎯 Goal: Become a cybersecurity expert and full-stack software engineer  
 
 ---
 
@@ -20,13 +19,13 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 <div align="center">
 
-<img alt="Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img alt="JavaScript" title="JavaScript (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="Python" title="Python (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img alt="SQL" title="SQL (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img alt="Linux" title="Linux (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img alt="Docker" title="Docker (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img alt="Git" title="Git (in development)" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img alt="Java" title="Java - Strong Knowledge" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img alt="JavaScript" title="Learning to build interactive web applications" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="Python" title="Exploring scripting and automation basics" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img alt="SQL" title="Understanding database management and queries" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img alt="Linux" title="Getting familiar with command line and system basics" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img alt="Docker" title="Starting to learn containerization concepts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img alt="Git" title="Learning version control and collaboration tools" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 </div>
 
@@ -36,35 +35,40 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 <div align="center">
 
-![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanandrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanandrade&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-### 💡 Projects & Learning Focus
+### ✅ Projects & Learning Focus
 
-- [x] Java — sólido conhecimento e projetos feitos  
-- [ ] JavaScript — em desenvolvimento  
-- [ ] Python — em desenvolvimento  
-- [ ] SQL — em desenvolvimento  
-- [ ] Linux — em desenvolvimento  
-- [ ] Docker — em desenvolvimento  
-- [ ] Git — em desenvolvimento  
+- [x] **Java** — solid knowledge and completed projects  
+- [ ] **JavaScript** — learning to build interactive web applications  
+- [ ] **Python** — exploring scripting and automation basics  
+- [ ] **SQL** — understanding database management and queries  
+- [ ] **Linux** — getting familiar with command line and system basics  
+- [ ] **Docker** — starting to learn containerization concepts  
+- [ ] **Git** — learning version control and collaboration tools  
 
 ---
 
 ### 🎧 What I'm Listening To
 
 <div align="center">
-  [![Spotify](https://now-playing-spotify-ten.vercel.app/api/spotify/?background_color=0D1117&border_color=695f56)](https://open.spotify.com/user/31d34cvrcrzoynz2znvwg7r3nsku)
+
+[![Spotify](https://now-playing-spotify-ten.vercel.app/api/spotify/?user=31hidbl4gz4aohkv6ye5ivov4ewu&background_color=0D1117&border_color=695f56)](https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu)
+
+🎵 Favorite song:  
+[**Bring Me The Horizon – DArkSide**](https://open.spotify.com/intl-pt/track/0d7oIw2t0f6oCXJUfWYw8E?si=18805c4f11dc43ea)
+
 </div>
 
 ---
 
-### 📫 Get in touch
+### 📫 Get in Touch
 
 <div align="center">
 
@@ -83,4 +87,4 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 ---
 
-*Thanks for visiting my profile! Let's connect and build something awesome together.* 🚀
+*Thanks for visiting my profile! Let’s connect and build something awesome together.* 🚀
