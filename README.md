@@ -1,24 +1,84 @@
-Hello World 🙋🏻‍♂️
-E aí! Me chamo Kauan de Andrade, sou apaixonado por computação e tecnologia, sempre buscando aprender e evoluir através de projetos e estudos constantes.
+# Hi, I'm Kauan de Andrade 👋
 
-Sobre mim 💡
-Estudo Ciência da Computação na UNA 🎓
+---
 
-Interesse em Cibersegurança e desenvolvimento de software 💻🔐
+### 🎓 About Me
 
-Apaixonado por programação e inovação 🚀
+I’m a passionate Computer Science student at UNA University, focused on building a strong foundation in software development and cybersecurity.  
+Constantly learning, exploring new technologies, and working on projects to improve my skills and contribute to the community.
 
-Gosto de explorar diferentes tecnologias e aplicar o conhecimento em projetos reais 🔧
+- 🔐 Interested in Cybersecurity & Secure Coding  
+- 💻 Skilled in Java, JavaScript, Python, SQL & Linux  
+- 🚀 Always curious about Cloud, DevOps & Automation  
+- 🌱 Currently leveling up my skills in backend development and containerization with Docker  
+- 🎯 Goal: Become a cybersecurity expert and software engineer
 
-Estou sempre em busca de novos desafios para crescer profissionalmente e pessoalmente 🌱
+---
 
-Learning Now 📚
-<div style="display: inline-block; padding: 20px 0px;"> <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> </div>
-Returning to learn... ⏰
-<div style="display: inline-block; padding: 20px 0px;"> <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> </div>
-<div align="center" style="display: inline-block"> <a href="https://github.com/kauanandrade"> <img height="169em" alt="Kauan GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kauanandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="169em" alt="Kauan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanandrade&layout=compact&langs_count=10&theme=tokyonight"/> </a> </div>
-Knowledge Area 💾
-<div style="display: inline-block; padding: 20px 0px;"> <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> </div>
-Listening Now 🎧
-<div align="center"> <!-- Se quiser, cole aqui seu widget Spotify ou música favorita --> </div>
-<div align="center"> <img align="center" alt="Tech Animation" src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1449065969/content-items/001/469/066/CHAIN_A_MOTION_Pablo_dribbble_V02-original.gif?1449065969"> </div>
+### 🛠️ Technical Skills
+
+<div align="center">
+
+<img alt="Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img alt="JavaScript" title="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img alt="SQL" title="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img alt="Linux" title="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img alt="Docker" title="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<img alt="Git" title="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanandrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanandrade&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 💡 Projects & Learning Focus
+
+- Building practical projects to apply cybersecurity principles  
+- Enhancing knowledge in secure software design  
+- Learning cloud technologies and infrastructure automation  
+- Diving into Linux internals and scripting
+
+---
+
+### 🎧 What I'm Listening To
+
+<div align="center">
+  <!-- Spotify Widget: customize your Spotify username or remove if you prefer -->
+  [![Spotify](https://now-playing-spotify-ten.vercel.app/api/spotify/?background_color=0D1117&border_color=695f56)](https://open.spotify.com/user/31d34cvrcrzoynz2znvwg7r3nsku)
+</div>
+
+---
+
+### 📫 Get in touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauanandrade)  
+[![Gmail](https://img.shields.io/badge/Gmail-kauanandrade@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kauanandrade@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1449065969/content-items/001/469/066/CHAIN_A_MOTION_Pablo_dribbble_V02-original.gif?1449065969" alt="Coding Animation" width="300"/>
+
+</div>
+
+---
+
+*Thanks for visiting my profile! Let's connect and build something awesome together.* 🚀
+
