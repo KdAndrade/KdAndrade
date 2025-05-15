@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Olá! Eu me chamo Kauan de ANdrade
+# 👨🏻‍💻 Olá! Eu me chamo Kauan de Andrade
 
 **`Estudante de Ciência da Computação | Futuro Desenvolvedor`**
 
@@ -41,7 +41,7 @@ Meu objetivo é evoluir constantemente, construir projetos reais, contribuir com
   <img 
     align="left" 
     alt="Top Langs" 
-    height="200" 
+    height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&theme=tokyonight&layout=compact&langs_count=10&custom_title=Java" 
   />
 </p>
