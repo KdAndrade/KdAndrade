@@ -55,7 +55,6 @@ Constantly learning, exploring new technologies, and working on projects to impr
 ### 🎧 What I'm Listening To
 
 <div align="center">
-  <!-- Spotify Widget: customize your Spotify username or remove if you prefer -->
   [![Spotify](https://now-playing-spotify-ten.vercel.app/api/spotify/?background_color=0D1117&border_color=695f56)](https://open.spotify.com/user/31d34cvrcrzoynz2znvwg7r3nsku)
 </div>
 
@@ -65,8 +64,8 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 <div align="center">
 
-[![LinkedIn](www.linkedin.com/in/kauan-de-andrade-oliveira-a20738275)  
-[![Gmail]([https://img.shields.io/badge/Gmail-kauanandrade@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kauand.andrade17@gmail.com](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauan-de-andrade-oliveira-a20738275)  
+[![Gmail](https://img.shields.io/badge/Gmail-kauand.andrade17@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kauand.andrade17@gmail.com)
 
 </div>
 
@@ -81,4 +80,3 @@ Constantly learning, exploring new technologies, and working on projects to impr
 ---
 
 *Thanks for visiting my profile! Let's connect and build something awesome together.* 🚀
-
