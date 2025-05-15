@@ -57,19 +57,7 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 ### 🎧 What I'm Listening To
 
-<div align="center">
-
-<a href="https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu?si=602d5f9627cf4092" target="_blank">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200px" alt="Spotify profile"/>
-</a>
-
-<p>My favorite song right now:  
-  <a href="https://open.spotify.com/intl-pt/track/0d7oIw2t0f6oCXJUfWYw8E?si=18805c4f11dc43ea" target="_blank">
-    ☞ <strong>“I Wanna Be Yours” - Arctic Monkeys</strong>
-  </a>
-</p>
-
-</div>
+<div align="center"> <a href="https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu?si=602d5f9627cf4092" target="_blank"> <img src="https://media.giphy.com/media/I8l8z1ZqBfQqk4W99P/giphy.gif" width="300px" alt="Music Mixer"/> </a> <p>My favorite song right now: <a href="https://open.spotify.com/intl-pt/track/0d7oIw2t0f6oCXJUfWYw8E?si=18805c4f11dc43ea" target="_blank"> ☞ <strong>“I Wanna Be Yours” - Arctic Monkeys</strong> </a> </p> </div>
 
 ---
 
