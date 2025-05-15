@@ -43,15 +43,15 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 ---
 
-### ✅ Projects & Learning Focus
+### 💡 Projects & Learning Focus
 
-- [x] **Java** — solid knowledge and completed projects  
-- [ ] **JavaScript** — learning to build interactive web applications  
-- [ ] **Python** — exploring scripting and automation basics  
-- [ ] **SQL** — understanding database management and queries  
-- [ ] **Linux** — getting familiar with command line and system basics  
-- [ ] **Docker** — starting to learn containerization concepts  
-- [ ] **Git** — learning version control and collaboration tools  
+- [x] Java — basic knowledge and completed some projects  
+- [ ] JavaScript — learning to build interactive web applications  
+- [ ] Python — exploring scripting and automation basics  
+- [ ] SQL — understanding database management and queries  
+- [ ] Linux — getting familiar with command line and system basics  
+- [ ] Docker — starting to learn containerization concepts  
+- [ ] Git — learning version control and collaboration tools
 
 ---
 
@@ -59,10 +59,15 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 <div align="center">
 
-[![Spotify](https://now-playing-spotify-ten.vercel.app/api/spotify/?user=31hidbl4gz4aohkv6ye5ivov4ewu&background_color=0D1117&border_color=695f56)](https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu)
+<a href="https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu?si=602d5f9627cf4092" target="_blank">
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200px" alt="Spotify profile"/>
+</a>
 
-🎵 Favorite song:  
-[**Bring Me The Horizon – DArkSide**](https://open.spotify.com/intl-pt/track/0d7oIw2t0f6oCXJUfWYw8E?si=18805c4f11dc43ea)
+<p>My favorite song right now:  
+  <a href="https://open.spotify.com/intl-pt/track/0d7oIw2t0f6oCXJUfWYw8E?si=18805c4f11dc43ea" target="_blank">
+    ☞ <strong>“I Wanna Be Yours” - Arctic Monkeys</strong>
+  </a>
+</p>
 
 </div>
 
@@ -80,11 +85,9 @@ Constantly learning, exploring new technologies, and working on projects to impr
 ---
 
 <div align="center">
-
-<img src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1449065969/content-items/001/469/066/CHAIN_A_MOTION_Pablo_dribbble_V02-original.gif?1449065969" alt="Coding Animation" width="300"/>
-
+  <img src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1449065969/content-items/001/469/066/CHAIN_A_MOTION_Pablo_dribbble_V02-original.gif?1449065969" alt="Coding Animation" width="300"/>
 </div>
 
 ---
 
-*Thanks for visiting my profile! Let’s connect and build something awesome together.* 🚀
+*Thanks for visiting my profile! Let's connect and build something awesome together.* 🚀
