@@ -35,9 +35,9 @@ Constantly learning, exploring new technologies, and working on projects to impr
 
 <div align="center">
 
-![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanandrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanandrade&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&layout=compact&theme=radical)
 
 </div>
 
