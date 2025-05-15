@@ -15,8 +15,6 @@ Meu objetivo é evoluir constantemente, construir projetos reais, contribuir com
 <img alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="Linux" title="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img alt="Kali Linux" title="Kali Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali-dragon-icon.svg" />
-
 
 ---
 
