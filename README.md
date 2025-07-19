@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGluZG5qZzhvemFocGRwd3E0d2ZjaTBpczZyY2M2ajJ1eHh6M3FoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello World" width="300"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="SEU_LINK_PERMANENTE_AQUI" alt="Hi there, I'm Kauan de Andrade"/>
 </div>
 
