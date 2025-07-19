@@ -1,82 +1,78 @@
-# Hi, I'm Kauan de Andrade 👋
+# Olá, eu sou o Kauan de Andrade! 👋
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="150">
+</div>
 
 ---
 
-### 🎓 About Me
+### 👨‍💻 Sobre Mim
 
-I’m a passionate Computer Science student at UNA University, focused on building a strong foundation in software development and cybersecurity.  
-Constantly learning, exploring new technologies, and working on projects to improve my skills and contribute to the community.
+Sou um estudante de **Ciência da Computação** na UNA, apaixonado por tecnologia e resolução de problemas. Estou no início da minha jornada acadêmica, focado em construir uma base sólida em desenvolvimento de software e explorar o universo da cibersegurança.
 
-- 🔐 Interested in Cybersecurity & Secure Coding  
-- 💻 Skilled in **Java**  
-- 🚧 Currently learning JavaScript, Python, SQL, Linux, Git & Docker  
-- 🌐 Curious about Cloud, DevOps & Automation  
-- 🎯 Goal: Become a cybersecurity expert and full-stack software engineer  
+- 🌱 Atualmente, estou aprofundando meus conhecimentos em **Java** e lógica de programação.
+- 🔭 Tenho grande interesse por Segurança da Informação e Desenvolvimento Web.
+- 🎯 Meu objetivo é aprender continuamente e aplicar meus conhecimentos em projetos desafiadores.
 
 ---
 
-### 🛠️ Technical Skills
+### 🚀 Minha Jornada de Aprendizagem
+
+Estou sempre buscando aprender algo novo. Estas são as tecnologias que estou explorando no momento:
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br><strong>Java</strong>
+      <br><small>(Base principal)</small>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br><strong>Git & GitHub</strong>
+      <br><small>(Versionamento)</small>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+      <br><strong>HTML5</strong>
+      <br><small>(Aprendendo)</small>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+      <br><strong>CSS3</strong>
+      <br><small>(Aprendendo)</small>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
+      <br><small>(Próximo passo)</small>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Minhas Estatísticas no GitHub
 
 <div align="center">
 
-<img alt="Java" title="Java - Strong Knowledge" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-<img alt="JavaScript" title="Learning to build interactive web applications" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="Python" title="Exploring scripting and automation basics" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img alt="SQL" title="Understanding database management and queries" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img alt="Linux" title="Getting familiar with command line and system basics" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img alt="Docker" title="Starting to learn containerization concepts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-<img alt="Git" title="Learning version control and collaboration tools" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+![Estatísticas do GitHub de Kauan](https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&layout=compact&theme=radical&langs_count=8)
 
 </div>
 
 ---
 
-### 📈 GitHub Stats
+### 📫 Como me encontrar
 
 <div align="center">
-
-![Kauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&layout=compact&theme=radical)
-
-</div>
-
----
-
-### 💡 Projects & Learning Focus
-
-- [x] Java — basic knowledge and completed some projects  
-- [ ] JavaScript — learning to build interactive web applications  
-- [ ] Python — exploring scripting and automation basics  
-- [ ] SQL — understanding database management and queries  
-- [ ] Linux — getting familiar with command line and system basics  
-- [ ] Docker — starting to learn containerization concepts  
-- [ ] Git — learning version control and collaboration tools
-
----
-
-### 🎧 O que estou ouvindo
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31hidbl4gz4aohkv6ye5ivov4ewu?si=602d5f9627cf4092" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Equalizador Musical" width="200" />
+  <a href="https://www.linkedin.com/in/kauan-de-andrade-oliveira-a20738275" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-### 📫 Get in Touch
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauan%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kauan-de-andrade-oliveira-a20738275)  
-[![Gmail](https://img.shields.io/badge/Gmail-kauand.andrade17@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kauand.andrade17@gmail.com)
-
+  <a href="mailto:kauand.andrade17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://cdn.domestika.org/c_limit,dpr_1.0,f_auto,q_auto,w_820/v1449065969/content-items/001/469/066/CHAIN_A_MOTION_Pablo_dribbble_V02-original.gif?1449065969" alt="Coding Animation" width="300"/>
-</div>
-
----
-
-*Thanks for visiting my profile! Let's connect and build something awesome together.* 🚀
