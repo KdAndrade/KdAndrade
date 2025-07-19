@@ -49,7 +49,7 @@ Esta é a trilha de estudos que estou seguindo, construindo uma base de desenvol
       <br><small>(Início em Cyber)</small>
     </td>
      <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/de19b31d6542452b410714101a4d538234470248/icons/Cloudflare.svg" width="40" height="40" alt="Networking" />
+      <img src="COLE_AQUI_O_SEU_LINK_DO_ICONE_DE_REDES" width="40" height="40" alt="Networking" />
       <br><strong>Redes & TCP/IP</strong>
       <br><small>(Fundamentos)</small>
     </td>
