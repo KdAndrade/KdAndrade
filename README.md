@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="SEU_LINK_PERMANENTE_AQUI" alt="Hi there, I'm Kauan de Andrade"/>
+  <img src="(https://github.com/KdAndrade)" alt="Hi there, I'm Kauan de Andrade"/>
 </div>
 
 <p align="center">
