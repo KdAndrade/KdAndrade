@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGluZG5qZzhvemFocGRwd3E0d2ZjaTBpczZyY2M2ajJ1eHh6M3FoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello World" width="300"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="SEU_LINK_PERMANENTE_AQUI" alt="Hi there, I'm Kauan de Andrade"/>
+  <img src="<div class="tenor-gif-embed" data-postid="1378121840400141809" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/hello-world-animation-hello-coding-gif-1378121840400141809">Hello World Animation GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="Hi there, I'm Kauan de Andrade"/>
 </div>
 
 <p align="center">
