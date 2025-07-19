@@ -2,6 +2,12 @@
   <img src="https://media.tenor.com/1Y23G2g_p2YAAAAC/hello-world.gif" alt="Hello World" width="350"/>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="SEU_LINK_PERMANENTE_AQUI" alt="Hi there, I'm Kauan de Andrade"/>
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
 </p>
@@ -63,8 +69,8 @@ Estas são as tecnologias que estou explorando no momento:
 
 <div align="center">
   <h3>🎧 Ouvindo Agora no Spotify</h3>
-  <a href="https://open.spotify.com/track/5GS5C32gON3wOOc0Iu6f6g" target="_blank">
-    <img src="https://github-readme-spotify.vercel.app/api/spotify?uri=spotify:track:5GS5C32gON3wOOc0Iu6f6g" alt="Now Playing on Spotify" />
+  <a href="https://open.spotify.com/track/3i3Yn1Fm4iE5jKMWa1tP5k" target="_blank">
+    <img src="https://github-readme-spotify.vercel.app/api/spotify?uri=spotify:track:3i3Yn1Fm4iE5jKMWa1tP5k" alt="Now Playing on Spotify" />
   </a>
 </div>
 
@@ -74,34 +80,4 @@ Estas são as tecnologias que estou explorando no momento:
 
 ### 📈 Minhas Estatísticas no GitHub
 
-<div align="center">
-
-![Estatísticas do GitHub de Kauan](https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&layout=compact&theme=radical&langs_count=8)
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
-</p>
-
-### 📫 Como me encontrar
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kauan-de-andrade-oliveira-a20738275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:kauand.andrade17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
----
-
-**Recomendação Final:**
-Se mesmo usando o código acima o GIF não aparecer, a única explicação é que o Tenor está bloqueando a exibição da imagem no GitHub.
-
-Nesse caso, a **Solução 2** que expliquei na mensagem anterior (baixar o GIF e subir para o seu próprio repositório) é o único caminho que vai **garantir 100%** que a imagem funcione. É a prática recomendada por todos os desenvolvedores para ter um perfil estável e profissional.
-
-Se precisar de ajuda para fazer o upload, me avise!
+<div
