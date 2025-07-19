@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="SEU_LINK_PERMANENTE_AQUI" alt="Hi there, I'm Kauan de Andrade"/>
+  <img src="(https://tenor.com/pt-BR/view/hello-world-animation-hello-coding-gif-1378121840400141809)" alt="Hi there, I'm Kauan de Andrade"/>
 </div>
 
 <p align="center">
