@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N2dHRyd2dyM2Y5eXlsc2w1ZGZscG96cjRjcTNtbnBsc3h4ZjZ2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JTFsZgo5gC2I/giphy.gif" alt="Hello There" width="350"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="SEU_LINK_PERMANENTE_AQUI" alt="Hi there, I'm Kauan de Andrade"/>
+  <h2>Hello There! 👋</h2>
 </div>
 
 <p align="center">
@@ -17,10 +11,10 @@
     <td>
       <h3>👨‍💻 Sobre Mim</h3>
       <p>
-        Sou um estudante de <strong>Ciência da Computação</strong> na UNA, apaixonado por tecnologia e com um foco crescente no universo da Cibersegurança. Estou construindo uma base sólida em sistemas e redes para me tornar um profissional de segurança da informação.<br><br>
-        - 🌱 Atualmente, aprofundando meus conhecimentos em <strong>Linux e Redes</strong>.<br>
-        - 🔭 Meu objetivo principal é atuar com Segurança Ofensiva (Ethical Hacking).<br>
-        - 🎯 Buscando aprender continuamente sobre novas ferramentas e técnicas de defesa e ataque.
+        Sou um estudante de <strong>Ciência da Computação</strong> na UNA, apaixonado por tecnologia. Comecei minha jornada com uma base em desenvolvimento de software com <strong>Java</strong> e, agora, estou direcionando meus estudos e minha curiosidade para o universo da <strong>Cibersegurança</strong>.<br><br>
+        - 🌱 Atualmente, aprofundando meus conhecimentos nos fundamentos de segurança.<br>
+        - 🔭 Meu objetivo é construir uma carreira sólida na área de Segurança da Informação.<br>
+        - 🎯 Buscando aprender continuamente sobre sistemas, redes e programação.
       </p>
     </td>
     <td width="40%" align="center">
@@ -33,26 +27,16 @@
   <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
 </p>
 
-### 🚀 Minha Jornada de Aprendizagem em Cibersegurança
+### 🚀 Minha Jornada de Aprendizagem
 
-Estes são os pilares do meu estudo e as tecnologias que estou explorando para atingir meus objetivos:
+Esta é a trilha de estudos que estou seguindo, construindo uma base de desenvolvimento para me aprofundar em segurança.
 
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-      <br><strong>Linux</strong>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br><strong>Java</strong>
       <br><small>(Base Sólida)</small>
-    </td>
-    <td align="center" width="120">
-      <img src="https://user-images.githubusercontent.com/25181517/192158055-996401bc-626a-4c19-994c-e83884da3526.png" width="40" height="40" alt="Networking" />
-      <br><strong>Redes & TCP/IP</strong>
-      <br><small>(Fundamentos)</small>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br><strong>Python</strong>
-      <br><small>(Scripting)</small>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
@@ -60,9 +44,19 @@ Estes são os pilares do meu estudo e as tecnologias que estou explorando para a
       <br><small>(Versionamento)</small>
     </td>
     <td align="center" width="120">
-       <img src="https://user-images.githubusercontent.com/25181517/192158100-8809e2b4-2330-4bbe-9123-162B0311E390.png" width="40" height="40" alt="Security" />
-      <br><strong>Ethical Hacking</strong>
-      <br><small>(Foco Principal)</small>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <br><strong>Linux</strong>
+      <br><small>(Início em Cyber)</small>
+    </td>
+     <td align="center" width="120">
+      <img src="https://user-images.githubusercontent.com/25181517/192158055-996401bc-626a-4c19-994c-e83884da3526.png" width="40" height="40" alt="Networking" />
+      <br><strong>Redes & TCP/IP</strong>
+      <br><small>(Fundamentos)</small>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br><strong>Python</strong>
+      <br><small>(Foco Atual)</small>
     </td>
   </tr>
 </table>
