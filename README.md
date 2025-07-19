@@ -2,12 +2,6 @@
   <img src="https://media.tenor.com/1Y23G2g_p2YAAAAC/hello-world.gif" alt="Hello World" width="350"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github.com/KdAndrade/KdAndrade/blob/main/hello-world-animation.gif" alt="Hi there, I'm Kauan de Andrade"/>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
 </p>
