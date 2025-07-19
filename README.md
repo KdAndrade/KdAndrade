@@ -1,4 +1,12 @@
-<div class="tenor-gif-embed" data-postid="1378121840400141809" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/hello-world-animation-hello-coding-gif-1378121840400141809">Hello World Animation GIF</a>from <a href="https://tenor.com/search/hello+world-gifs">Hello World GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://media.tenor.com/1Y23G2g_p2YAAAAC/hello-world.gif" alt="Hello World" width="350"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="SEU_LINK_PERMANENTE_AQUI" alt="Hi there, I'm Kauan de Andrade"/>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
