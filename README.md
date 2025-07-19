@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="(https://github.com/KdAndrade)" alt="Hi there, I'm Kauan de Andrade"/>
+  <img src="SEU_LINK_PERMANENTE_AQUI" alt="Hi there, I'm Kauan de Andrade"/>
 </div>
 
 <p align="center">
@@ -102,3 +102,12 @@ Estas são as tecnologias que estou explorando no momento:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+
+---
+
+**Recomendação Final:**
+Se mesmo usando o código acima o GIF não aparecer, a única explicação é que o Tenor está bloqueando a exibição da imagem no GitHub.
+
+Nesse caso, a **Solução 2** que expliquei na mensagem anterior (baixar o GIF e subir para o seu próprio repositório) é o único caminho que vai **garantir 100%** que a imagem funcione. É a prática recomendada por todos os desenvolvedores para ter um perfil estável e profissional.
+
+Se precisar de ajuda para fazer o upload, me avise!
