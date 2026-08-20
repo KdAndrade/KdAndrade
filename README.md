@@ -1,98 +1,65 @@
 <div align="center">
-  <h2>Hello There! 👋</h2>
+  <h1>Olá, sou o Kauan de Andrade 👋</h1>
+  <p><strong>Estudante de Ciência da Computação | Back-end & Segurança da Informação</strong></p>
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <h3>👨‍💻 Sobre Mim</h3>
-      <p>
-        Sou um estudante de <strong>Ciência da Computação</strong> na UNA, apaixonado por tecnologia. Comecei minha jornada com uma base em desenvolvimento de software com <strong>Java</strong> e, agora, estou direcionando meus estudos e minha curiosidade para o universo da <strong>Cibersegurança</strong>.<br><br>
-        - 🌱 Atualmente, aprofundando meus conhecimentos nos fundamentos de segurança.<br>
-        - 🔭 Meu objetivo é construir uma carreira sólida na área de Segurança da Informação.<br>
-        - 🎯 Buscando aprender continuamente sobre sistemas, redes e programação.
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250" alt="Coder Cat GIF"/>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Sobre Mim
+
+Sou graduando em **Ciência da Computação** pela UNA com foco no desenvolvimento de soluções robustas em **Java** e **Python**, direcionando minha especialização técnica para **Segurança da Informação** e **Redes**.
+
+- 🔭 **Foco Prático:** Desenvolvimento back-end, automação de scripts e fundamentos de segurança defensiva/ofensiva.
+- 💡 **Interesses:** Arquitetura de redes, análise de tráfego, Linux e boas práticas de código seguro (AppSec).
+- 🏆 **Atividades & Desafios:** Participação ativa em hackathons, game jams e resolução de labs práticos.
+- 🎯 **Objetivo:** Oportunidades de estágio e posições júnior em Desenvolvimento Back-end ou Cibersegurança.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
 </p>
 
-### 🚀 Minha Jornada de Aprendizagem
-
-Esta é a trilha de estudos que estou seguindo, construindo uma base de desenvolvimento para me aprofundar em segurança.
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br><strong>Java</strong>
-      <br><small>(Base Sólida)</small>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br><strong>Git & GitHub</strong>
-      <br><small>(Versionamento)</small>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-      <br><strong>Linux</strong>
-      <br><small>(Início em Cyber)</small>
-    </td>
-     <td align="center" width="120">
-      <img src="COLE_AQUI_O_SEU_LINK_DO_ICONE_DE_REDES" width="40" height="40" alt="Networking" />
-      <br><strong>Redes & TCP/IP</strong>
-      <br><small>(Fundamentos)</small>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br><strong>Python</strong>
-      <br><small>(Foco Atual)</small>
-    </td>
-  </tr>
-</table>
+### 🛠️ Stack & Ferramentas
 
 <div align="center">
-  <h3>🎧 Ouvindo Agora no Spotify</h3>
-  <a href="https://open.spotify.com/track/3i3Yn1Fm4iE5jKMWa1tP5k" target="_blank">
-    <img src="https://github-readme-spotify.vercel.app/api/spotify?uri=spotify:track:3i3Yn1Fm4iE5jKMWa1tP5k" alt="Now Playing on Spotify" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
 </p>
 
-### 📈 Minhas Estatísticas no GitHub
+### 📌 Repositórios em Destaque
+
+- 🔹 **Chatbox Educacional Financeiro**: Software educacional financeiro que fornece insights práticos em linguagem acessível para micro e pequenos empreendedores.
+- 🔹 **VanStop**: ERP completo para gestão de transporte e vans, com integração de controle financeiro e gerenciamento de passageiros.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
+</p>
+
+### 📈 Estatísticas
 
 <div align="center">
-
-![Estatísticas do GitHub de Kauan](https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&layout=compact&theme=radical&langs_count=8)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KdAndrade&theme=radical" alt="Estatísticas do GitHub" />
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KdAndrade/KdAndrade/main/assets/line.gif" width="100%"/>
 </p>
 
-### 📫 Como me encontrar
+### 📫 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kauan-de-andrade-oliveira-a20738275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kauand.andrade17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
