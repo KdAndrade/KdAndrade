@@ -134,19 +134,12 @@ A project focused on organizing and supporting study workflows.
      └── Secure Development
      └── Networking
 
-> github --stats
+## `> github --stats`
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=KdAndrade&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&ring_color=00FF66" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdAndrade&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KdAndrade&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
